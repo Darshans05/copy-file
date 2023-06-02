@@ -6,16 +6,13 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+Create a text1.txt with some content in it
 ### Step 2: 
- 
+ Open the text1.txt file in read mode
 ### Step 3: 
-
+Create a copy.txt file using write mode
 ### Step 4:  
-
-### Step 5: 
-
-### Step 6: 
+Copy the content of text1.txt file to copy.txt using write function
 
 ## PROGRAM:
 ```python 
