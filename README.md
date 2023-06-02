@@ -25,7 +25,7 @@ with open("text1.txt",'r') as fp:
     msg1=fp.read()
 with open("copytxt",'w') as fp1:
     fp1.write(msg1)
-
+```
 
 ### OUTPUT:
 ![image](https://github.com/Darshans05/copy-file/assets/115534676/5bf4d1fe-20b9-4de7-8112-56906bfcd6c9)
